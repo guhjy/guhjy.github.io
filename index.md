@@ -25,7 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-$\alpha$ $\beta$ $\gamma$ $\delta$ $\epsilon$ $\theta$ \theta
+$\alpha$ 
+$\alpha A$
+ $\beta$ $\gamma$ $\delta$ $\epsilon$ $\theta$ \theta
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
