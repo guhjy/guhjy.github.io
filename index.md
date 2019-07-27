@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-words **bold** &alpha; and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 &alpha; &beta; &gamma; &delta; &Delta; &epsilon; &eta; &iota; &kappa; &lambda; &micro; &omega; &Omega; &phi; &Phi; &pi; &Pi; &psi; &Psi; &rho; &sigma; &theta; &tau; &xi; &zeta; &ne; &ge; &le; &plusmn; &sup2; &sub2; &uarr; &darr; &larr; &rarr; &#8451; &sum; &prod; &radic; &prop; &infin;
 
