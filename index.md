@@ -3,6 +3,8 @@ words **bold** &alpha; and other words *italic* with Markdown. You can even [lin
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 &alpha; &beta; &gamma; &delta; &epsilon; &micro; &lambda; &theta;
 h<sub>&theta;</sub>(x) = &theta;
+
+&ge;
 <sub>o</sub> x + &theta;<sub>1</sub>x
 ### Markdown
 
