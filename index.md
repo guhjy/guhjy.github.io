@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/guhjy/guhjy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
