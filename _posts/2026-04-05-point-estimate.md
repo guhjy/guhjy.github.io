@@ -3,7 +3,8 @@ layout: post
 title: "點估計的陷阱"
 data: 2026-04-05
 author: Guh
-tags: [stats, ci]
+categories: [stats]
+tags: [ci]
 ---
 只看點估計的醫師，是把隨機的猜測當成真理；看信賴區間的醫師，才是真正懂得不確定性的人。
 
