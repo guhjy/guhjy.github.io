@@ -43,3 +43,24 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+.post-tags {
+  margin-top: 1.5rem;
+  font-size: 0.95rem;
+  line-height: 1.8;
+}
+
+.post-tag {
+  display: inline-block;
+  margin-right: 0.4rem;
+  margin-bottom: 0.4rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  text-decoration: none;
+  background: #f2f2f2;
+  color: #333;
+}
+
+.post-tag:hover {
+  background: #e0e0e0;
+  text-decoration: none;
+}
