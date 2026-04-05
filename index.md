@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+醫學：內科、腎臟科、內分泌科、糖尿病、免疫學、藥物
+疾病：急性腎傷害、慢性腎臟病、腎絲球腎炎、洗腎
+資料科學
+文學、哲學
