@@ -6,12 +6,12 @@ author: Guh
 categories: [stats]
 tags: [symbols]
 ---
-$\sum_{i=1}^n \beta_i$
+$\bar{x}$
 This is inline math: $x^2 + y^2 = z^2$
 
 $\hat{\beta} = (X^TX)^{-1}X^Ty$
 
-$\sum_{i=1}^n \frac{1}{n}\beta_i.\bar{x}$<br>
+$\sum_{i=1}^n \frac{1}{n}\beta_i$<br>
 Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
 
 If the file does not start with a header, then the post title will be derived from the filename.
