@@ -19,8 +19,7 @@ $$
 
 Bayes theorem
 $$
-p(\theta \mid y) = \frac{p(y \mid \theta)\,p(\theta)}
-{\int_{\Theta} p(y \mid \theta)\,p(\theta)\,d\theta}
+p(\theta \mid y) = \frac{p(y \mid \theta)\,p(\theta)}{\int_{\Theta} p(y \mid \theta)\,p(\theta)\,d\theta}
 $$
 
 <br>
