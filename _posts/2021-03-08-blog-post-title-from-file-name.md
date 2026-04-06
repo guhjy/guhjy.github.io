@@ -11,7 +11,10 @@ This is inline math: $x^2 + y^2 = z^2$
 
 $\hat{\beta} = (X^TX)^{-1}X^Ty$
 
-\\( \sum_{i=1}^{n} x_i \\)
+行內：\\( \sum_{i=1}^{n} x_i \\)
+
+獨立行：
+\\[ \sum_{i=1}^{n} x_i \\]
 
 <br>
 Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
