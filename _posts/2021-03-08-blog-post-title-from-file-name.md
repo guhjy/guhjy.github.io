@@ -12,9 +12,7 @@ This is inline math: $x^2 + y^2 = z^2$
 
 $\hat{\beta} = (X^TX)^{-1}X^Ty$
 
-$$
-\sum_{i=1}^{n}\frac{1}{n+1}\beta_i
-$$
+$$\sum_{i=1}^{n}\frac{1}{n+1}\beta_i$$
 
 Bayes theorem<br>
 $$p(\theta \mid x) = \frac{p(x \mid \theta) \ p(\theta)}{p(x)}$$
