@@ -9,9 +9,7 @@ tags: [symbols]
 `$$\sum_{i=1}^n \beta_i$$`
 This is inline math: $x^2 + y^2 = z^2$
 
-$$
-\hat{\beta} = (X^TX)^{-1}X^Ty
-$$
+$\hat{\beta} = (X^TX)^{-1}X^Ty$
 
 $$
 \sum_{i=1}^n \frac{1}{n}\beta_i.\bar{x}
