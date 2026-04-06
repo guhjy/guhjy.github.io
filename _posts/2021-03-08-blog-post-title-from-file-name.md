@@ -1,4 +1,11 @@
-## Blog Post Title From First Header
+---
+layout: post
+title: "Blog Post Title From First Header"
+data: 2021-03-08
+author: Guh
+categories: [stats]
+tags: [symbols]
+---
 `$$\sum_{i=1}^n \beta_i$$`
 This is inline math: $x^2 + y^2 = z^2$
 
