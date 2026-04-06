@@ -17,8 +17,11 @@ $$
 \sum_{i=1}^{n}\frac{1}{n+1}\beta_i
 $$
 
-Normalization
-\\[ p(x \mid y) = \frac{p(y \mid x) p(x)}{\int_{\mathcal{X}} p(y \mid x^*) p(x^*) dx^*} \\]
+Bayes theorem
+$$
+p(\theta \mid y) = \frac{p(y \mid \theta)\,p(\theta)}
+{\int_{\Theta} p(y \mid \theta)\,p(\theta)\,d\theta}
+$$
 
 <br>
 Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
