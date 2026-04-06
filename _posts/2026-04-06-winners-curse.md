@@ -52,8 +52,6 @@ z=估計的效果量平均值/標準誤
 • 如果 RCT 的統計檢定力是 0.8，那麼效果量就是 2.8 個標準誤。
 • 如果統計檢定力是 0.9，那麼效果量就是 3.2 個標準誤。
 
-Bayesian moving from defense to offense: “I really think it’s kind of irresponsible now not to use the information from all those thousands of medical trials that came before. Is that very radical?” 23
-https://statmodeling.stat.columbia.edu/2023/12/23/bayesians-moving-from-defense-to-offense-i-really-think-its-kind-of-irresponsible-now-not-to-use-the-information-from-all-those-thousands-of-medical-trials-that-came-before-is-that-very/
+[Bayesian moving from defense to offense: “I really think it’s kind of irresponsible now not to use the information from all those thousands of medical trials that came before. Is that very radical?” 23](https://statmodeling.stat.columbia.edu/2023/12/23/bayesians-moving-from-defense-to-offense-i-really-think-its-kind-of-irresponsible-now-not-to-use-the-information-from-all-those-thousands-of-medical-trials-that-came-before-is-that-very/)
 
-Explaining that line, “Bayesians moving from defense to offense” 23
-https://statmodeling.stat.columbia.edu/2023/12/24/explaining-that-line-bayesians-moving-from-defense-to-offense/
+[Explaining that line, “Bayesians moving from defense to offense” 23](https://statmodeling.stat.columbia.edu/2023/12/24/explaining-that-line-bayesians-moving-from-defense-to-offense/)
