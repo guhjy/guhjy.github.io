@@ -1,7 +1,13 @@
 title: "顧醫師的部落格"
 author: "顧進裕"
 description: "關於醫學、文學、科學、資料科學" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
-
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: Guh
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "example@mail.com"
