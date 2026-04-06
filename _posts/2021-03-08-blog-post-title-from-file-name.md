@@ -14,7 +14,7 @@ This is inline math: $x^2 + y^2 = z^2$
 $\hat{\beta} = (X^TX)^{-1}X^Ty$
 
 $$
-\sum_{i=1}^{n}\frac{1}{n}\beta_i
+\sum_{i=1}^{n}\frac{1}{n+1}\beta_i
 $$
 
 <br>
