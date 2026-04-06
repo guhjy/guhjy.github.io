@@ -1,5 +1,5 @@
 ---
-title:"贏家的詛咒"
+title: "贏家的詛咒"
 categories: [stats]
 tags: [pvalue]
 ---
