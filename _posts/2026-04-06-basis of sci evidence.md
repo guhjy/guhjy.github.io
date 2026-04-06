@@ -1,5 +1,5 @@
 ---
-title: "科學證據的哲學基礎: 印度的流行病學家 Dr. Rajan R Patil@
+title: "科學證據的哲學基礎: 印度的流行病學家 Dr. Rajan R Patil"
 categories: [science]
 tags: [quotes]
 ---
