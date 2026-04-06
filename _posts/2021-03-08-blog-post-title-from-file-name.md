@@ -15,10 +15,9 @@ $$
 \sum_{i=1}^{n} x_i
 $$
 
-$$
-\sum_{i=1}^{n}\frac{1}{n}\beta_i.\bar{x}
-$$
-
+$
+\sum_{i=1}^{n}\frac{1}{n}\beta_i
+$
 <br>
 Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
 
