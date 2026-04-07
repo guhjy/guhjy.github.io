@@ -3,7 +3,6 @@ title: "C.S. 路易斯寫給兒童作家的信"
 categories: [writing]
 tags: [quotes]
 ---
-#quotes
 親愛的作家朋友，
 
 寫作時，請牢記以下幾點，這些建議或許對你有幫助：
